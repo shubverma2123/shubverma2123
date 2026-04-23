@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>E-Commerce website, travel booking website, and OTP login system.<br><br>🤝 I’m looking to collaborate on<br><br>Web development projects (React, Node.js, PHP).<br><br>🫶 I’m looking for help with<br><br>Firebase & full-stack setup.<br><br>🌱 I’m currently learning<br><br>React, Node.js, DSA (C++), and GitHub.<br><br>💬 Ask me about<br><br>Frontend, backend, OTP systems, anime & love-content ideas.<br><br>⚡ Fun fact<br><br>I love anime and build big projects for fun.
+🔭 I’m currently working on<br><br>E-Commerce website, travel booking website, and OTP login system.<br><br>🤝 I’m looking to collaborate on<br><br>Web development projects (React, Node.js, PHP).<br><br>🫶 I’m looking for help with<br><br>Firebase & full-stack setup.<br><br>🌱 I’m currently learning<br><br>React, Node.js, DSA (C++), and GitHub.<br><br>💬 Ask me about<br><br>Frontend, backend, OTP systems, anime & love-content ideas.<br><br>⚡ Fun fact<br><br>I love  code and build big projects for fun.
 
 
 ## 🌐 Socials:
